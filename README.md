@@ -1,3 +1,3 @@
 # [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
-Another one from FCC, the authetication of projects is really buggy on the site, so i couldn't get this one or the one before to be accepted but still happy, I tested this and it works, so that feels great.
-Another thing is that it seems to me that using designated functions instead of basic loops is the common practice, I guess it make the code less bulky and also makes it readable, but I haven't used that approach in this, so if the code looks confusing or too long, you know why!
+Another one from FCC, the authentication of projects is really buggy on the site, so i couldn't get this one or the one before to be accepted but still happy that I got it done, I tested this and it works(atleast to my knowledge).
+Another thing is that it seems to me that using designated functions instead of basic loops to do things is the common practice, doing that make the code less bulky and also improves readablility, but I haven't used that approach in this, so if the code looks confusing or too long, you know why!
